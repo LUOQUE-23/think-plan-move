@@ -1,4 +1,4 @@
-﻿# FoodRecomendation
+﻿# THINK-PLAN-MOVE
 
 ## 项目介绍
 THINK PLAN MOVE是一个基于 Android 的AI智能导航应用。用户可以输入口味偏好或选择快捷标签，应用会结合位置与偏好，从高德地图周边搜索接口获取信息，并通过本地规则与 DeepSeek 分析结果进行筛选排序，提供卡片式推荐与导航能力。
